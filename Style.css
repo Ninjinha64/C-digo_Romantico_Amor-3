@@ -1,0 +1,23 @@
+body {
+    background-color: #ffffff;
+    margin: 0;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+#neonText {
+    font-family: 'Arial', sans-serif;
+    font-size: 50px;
+    color: #FF69B4; /* Rosa claro */
+    text-align: center;
+    padding-top: 20%;
+    text-shadow:
+        0 0 5px #FF69B4,
+        0 0 10px #FF69B4,
+        0 0 20px #FF69B4,
+        0 0 40px #FF69B4,
+        0 0 80px #FF69B4,
+        0 0 100px #FF69B4;
+}
+
+
